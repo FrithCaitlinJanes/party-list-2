@@ -1,3 +1,7 @@
 choc
 sweets
 crisps
+other things
+pizza
+pie
+elderberries
